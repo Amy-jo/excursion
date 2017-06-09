@@ -13,6 +13,7 @@ h1 {
 h2 {
   font-size: 42px;
   font-weight: 300;
+  color: white;
 }
 
 h3 {
@@ -30,6 +31,6 @@ a {
   text-align: right;
 }
 
-img {
+img, a {
   display: block;
 }
